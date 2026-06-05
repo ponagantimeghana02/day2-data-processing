@@ -8,3 +8,5 @@ Task 2)Numpy array operations.
 Task 3)Employee salary Analysis.
 
 Task 4)Pandas Basics.
+
+Task 5)Employee Details Analysis. 
